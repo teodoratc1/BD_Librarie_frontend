@@ -98,7 +98,7 @@ export default function Header() {
                 </MenuItems>
               </Menu>
               <div className="flex">
-                <Link href="/Profil" className="flex gap-2">
+                <Link href="/contulmeu" className="flex gap-2">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     fill="none"
@@ -131,7 +131,7 @@ export default function Header() {
                 </Link>
               </div>
               <div className="flex">
-                <Link href="/Favorite" className="flex font-semibold gap-2 ">
+                <Link href="/favorite" className="flex font-semibold gap-2 ">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     fill="none"
@@ -150,7 +150,7 @@ export default function Header() {
                 </Link>
               </div>
               <div className="flex mr-4">
-                <Link href="/Cosulmeu" className="flex font-semibold gap-2">
+                <Link href="/cosulmeu" className="flex font-semibold gap-2">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     fill="none"
